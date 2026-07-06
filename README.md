@@ -264,11 +264,9 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Your Name**
+**Johishkumar**
 
-GitHub: https://github.com/yourusername
-
-Email: your@email.com
+Email: johish6383@gmail.com
 
 ---
 
